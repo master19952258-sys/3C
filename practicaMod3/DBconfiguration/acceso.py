@@ -1,6 +1,7 @@
 import os
 import psycopg2
 import getpass
+#hola
 
 DB_HOST = os.getenv("DB_HOST", "localhost")
 DB_PORT = os.getenv("DB_PORT", "5432")
